@@ -1,0 +1,99 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: #c20b0b; /* Dark red text for all <h1> elements */
+    font-size: 2em;
+}
+h2 {
+    color: #c20b0b; /* Dark red text for all <h2> elements */
+    font-size: 2em;
+}
+h3 {
+    color: #ff0303; /* Dark red text for all <h3> elements */
+    font-size: 2em;
+}
+h4 {
+    color: #fc0808; /* Dark red text for all <h4> elements */
+    font-size: 2em;
+}
+h5 {
+    color: #fc0109; /* Dark red text for all <h5> elements */
+    font-size: 2em;
+}
+h6 {
+    color: #fd0404; /* Dark red text for all <h6> elements */
+    font-size: 2em;
+}
+/* ID Selector */
+#intro {
+    background-color: #e0f7fa; /* Light teal background */
+    padding: 20px;
+    border: 2px solid #00796b; /* Dark teal border */
+    border-radius: 5px;
+}
+.even {
+    background-color: #f9f9f9; /* Light background for even items */
+}
+.odd {
+    background-color: #e0e0e0; /* Darker background for odd items */
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Targets the element with id="intro" */
+#intro {
+    background-color: #8b4d91;
+    padding: 20px;
+}
+/* Targets all elements with class="even" */
+.even {
+    background-color: #c45585;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #ff58ee;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: hsl(308, 100%, 3%);
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #080008;
+}
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #090009;
+}
