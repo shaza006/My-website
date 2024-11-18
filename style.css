@@ -97,3 +97,30 @@ p {
     line-height: 1.6;
     color: #090009;
 }
+/* Default style for the greeting */
+#greeting {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Morning style */
+  .morning {
+    color: #FF8C00; /* Orange */
+    background-color: #FFF9E3; /* Light yellow */
+  }
+  
+  /* Afternoon style */
+  .afternoon {
+    color: #007ACC; /* Blue */
+    background-color: #E0F7FA; /* Light cyan */
+  }
+  
+  /* Evening style */
+  .evening {
+    color: #FFFFFF; /* White */
+    background-color: #2C3E50; /* Dark blue */
+  }
+  
